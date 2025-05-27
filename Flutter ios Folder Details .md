@@ -1,8 +1,8 @@
+![iosfolder structure](https://github.com/user-attachments/assets/b23af8e9-9c53-4f23-ab3d-405c9fa7c21d)
 
 ## 🔷 ১. Runner (📂 Project root)
 
 এই অংশটি হলো iOS অ্যাপের মূল প্রোজেক্ট। এখানে Flutter কোডকে iOS-এ নেটিভভাবে চালাতে সহায়তা করে এমন ফাইল থাকে।
-![iosfolder structure](https://github.com/user-attachments/assets/e5ab3730-6cda-4e66-8876-97ea5cf24554)---
 
 ### 🔹 Flutter (📁)
 
